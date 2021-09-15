@@ -1,2 +1,2 @@
-# BarbaraRomashkina.github.io
+# Варя Ромашкина
 Мой первый сайт
