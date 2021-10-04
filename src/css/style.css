@@ -72,10 +72,9 @@ margin: 58px 14px 0px 14px;
     font-weight: bold;
 }
 
-.trait{
-	text-align: center;
-margin-top: 30px;
-
+.line{
+	display: block;
+	margin: 0 auto;
 }
 
 .pht{
