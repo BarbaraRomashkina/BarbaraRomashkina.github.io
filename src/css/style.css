@@ -109,11 +109,7 @@ position: top;
 }
 
 .item_abil{
-background: url(../img/bgr.jpg) no-repeat;
+	height: 100%;
+	background: url(../img/bgr.jpg) center/cover no-repeat;
 }
 
-
-.item_ability{
-	float: left;
-	width: 350px;
-}
