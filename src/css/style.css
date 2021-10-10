@@ -160,7 +160,7 @@ color: #384354;
 .client{
 	float: left;
 	width: 386px;
-	
+
 }
 
 .client h3{
@@ -175,4 +175,13 @@ color: #384354;
 
 .client a{
 	color: #3f495a;
+}
+
+.client input{
+	height: 43px;
+	border: 2px solid #63b5ae;
+	background: #63b5ae;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 0px 20px;
 }
