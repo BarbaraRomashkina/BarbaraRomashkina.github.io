@@ -137,6 +137,42 @@ margin-top: 100px;
 	color: #3f495a;
 }
 
-.cases img{
-margin-top: 60px;
+.case{
+	margin-top: 60px;
+
+}
+
+.proekt h4{
+margin-right: 450px;
+margin-top: 50px;
+text-indent: 50px;
+font-weight: bold;
+font-size: 18px;
+color: #384354;
+}
+
+.proekt p{
+	margin-left: 200px;
+	position: relative;
+   color: #3f495a;
+}
+
+.client{
+	float: left;
+	width: 386px;
+	
+}
+
+.client h3{
+	color: #384354;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.client h5{
+	color: #3f495a;
+}
+
+.client a{
+	color: #3f495a;
 }
