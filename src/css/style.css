@@ -64,7 +64,7 @@ margin: 58px 14px 0px 14px;
 }
 
 .inform h2{
-	margin-top: 100px;
+	margin-top: 170px;
 	text-align: center;
 	font-size: 30px;
     color: #263244;
@@ -133,7 +133,7 @@ margin-top: 100px;
 }
 
 .cases p{
-	margin-top: 40px;
+	margin-top: 10px;
 	color: #3f495a;
 }
 
@@ -170,6 +170,7 @@ color: #384354;
 }
 
 .client h5{
+	margin-top: 12px;
 	color: #3f495a;
 }
 
@@ -184,4 +185,7 @@ color: #384354;
 	border-radius: 5px;
 	color: #ffffff;
 	padding: 0px 20px;
+	display: block;
+	margin-left: 120px;
+	margin-top: 20px;
 }
