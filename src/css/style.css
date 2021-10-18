@@ -64,7 +64,7 @@ margin: 58px 14px 0px 14px;
 }
 
 .inform h2{
-	margin-top: 170px;
+	margin-top: 180px;
 	text-align: center;
 	font-size: 30px;
     color: #263244;
@@ -170,7 +170,7 @@ color: #384354;
 }
 
 .client h5{
-	margin-top: 12px;
+	margin-top: 8px;
 	color: #3f495a;
 }
 
@@ -189,3 +189,64 @@ color: #384354;
 	margin-left: 120px;
 	margin-top: 20px;
 }
+
+.typ h3{
+	margin-top: 50px;
+}
+
+.select-css{
+	display: block;
+	margin: 50px;
+	margin-left: 400px;
+	border: 2px solid #eeeeee;
+	background: #eeeeee;
+	color: #7d7d7d;
+	padding: 13px 620px 15px 15px;
+
+}
+
+.date p{
+ text-align: start;
+ margin: 27px 400px;
+ color: #1c2534;
+ font-weight: bold;
+
+}
+
+
+.some_statistics{
+	float: left;
+width: 350px;
+margin-top: 120px;
+}
+
+.some_statistics h3{
+	color: #384354;
+	font-weight: bold;
+	margin-top: 25px;
+	font-family: Impact, sans-serif;
+	font-size: 35px;
+}
+
+.some_statistics p{
+	color: #525b68;
+	font-family: Franklin Gothic Medium, sans-serif;
+	font-size: 15px;
+	margin-top: 20px;
+	text-transform: uppercase;
+}
+
+.reviews{
+	margin-top: 58px;
+}
+
+.reviews p{
+	margin-top: 35px;
+	color: #243042;
+}
+
+.reviews input{
+	margin-top: 50px;
+	margin-left: 15px;
+}
+
