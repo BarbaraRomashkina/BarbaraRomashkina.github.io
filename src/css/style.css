@@ -241,11 +241,12 @@ color: #384354;
  margin: 27px 400px;
  color: #1c2534;
  font-weight: bold;
+ }
 
-}
+
 
 .statist{
-	background: url(../img/bgrn.jpg);
+	background: url(../img/bgrn.jpg) no-repeat;
 
 }
 
@@ -271,6 +272,9 @@ margin-top: 120px;
 	text-transform: uppercase;
 }
 
+.rew{
+	margin-top: 40px;
+}
 .reviews{
 	margin-top: 58px;
 }
