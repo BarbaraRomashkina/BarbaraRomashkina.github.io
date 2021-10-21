@@ -64,7 +64,7 @@ margin: 58px 14px 0px 14px;
 }
 
 .inform h2{
-	margin-top: 180px;
+	padding-top: 180px;
 	text-align: center;
 	font-size: 30px;
     color: #263244;
@@ -79,7 +79,7 @@ margin: 58px 14px 0px 14px;
 }
 
 .pht{
-	text-align: center;
+text-align: center;
 margin-top: 60px;
 }
 
@@ -154,9 +154,10 @@ color: #384354;
 }
 
 .proekt p{
-	margin-left: 200px;
 	position: relative;
    color: #3f495a;
+   float: left;
+   text-align: left;
 }
 
 .client{
@@ -176,8 +177,9 @@ color: #384354;
 	color: #3f495a;
 }
 
-.client a{
+.link{
 	color: #3f495a;
+	margin-top: 16px;
 }
 
 .client input{
@@ -239,7 +241,6 @@ color: #384354;
  margin: 27px 400px;
  color: #1c2534;
  font-weight: bold;
- word-spacing: 500px;
 
 }
 
