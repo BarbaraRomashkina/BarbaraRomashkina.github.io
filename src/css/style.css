@@ -109,7 +109,7 @@ position: top;
 }
 
 .item_abil{
-	height: 400px;
+	height: 600px;
 	background: url(../img/bgr.jpg) center/cover no-repeat;
 }
 
@@ -241,12 +241,26 @@ color: #384354;
  margin: 27px 400px;
  color: #1c2534;
  font-weight: bold;
+ font-size: 18px;
  }
 
+ .zero p{
+ 	float: left;
+    width: 620px;
+ }
+
+.cost p{
+	float: left;
+ margin: 0px 399px;
+ color: #1c2534;
+ font-weight: bold;
+ font-size: 18px;
+}
 
 
 .statist{
-	background: url(../img/bgrn.jpg) no-repeat;
+	height: 600px;
+	background: url(../img/bgrn.jpg) center/cover no-repeat;
 
 }
 
@@ -273,7 +287,7 @@ margin-top: 120px;
 }
 
 .rew{
-	margin-top: 40px;
+	margin: 40px;
 }
 .reviews{
 	margin-top: 58px;
