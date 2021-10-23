@@ -236,32 +236,39 @@ color: #384354;
 
 }
 
-.date p{
- text-align: start;
- margin: 27px 400px;
- color: #1c2534;
- font-weight: bold;
- font-size: 18px;
- }
-
- .zero p{
- 	float: left;
-    width: 620px;
- }
-
-.cost p{
+.date{
 	float: left;
- margin: 0px 399px;
- color: #1c2534;
- font-weight: bold;
- font-size: 18px;
+	margin-left: 400px;
+	color: #1c2534;
+	font-weight: bold;
+}
+
+.zero{
+	float: left;
+	margin-left: 719px;
+color: #1c2534;
+font-weight: bold;
+
+}
+
+.cost{
+	float: left;
+	margin-left: 400px;
+	color: #1c2534;
+	font-weight: bold;
+}
+
+.null{
+	float: left;
+	margin-left: 691px;
+	color: #1c2534;
+	font-weight: bold;
 }
 
 
 .statist{
 	height: 600px;
-	background: url(../img/bgrn.jpg) center/cover no-repeat;
-
+	background: url(../img/bgrn.jpg) 30% 100%/auto 85% no-repeat;
 }
 
 .some_statistics{
