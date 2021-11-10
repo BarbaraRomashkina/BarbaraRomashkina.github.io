@@ -318,11 +318,11 @@ margin-top: 120px;
 	color: #ffffff;
 }
 
-.lor{
-	color: #ffffff;
+.inscr{
+	color: #ffffff !important;
 }
 
-.saintp{
+.my_contacts p{
 	color: #ffffff;
 }
 
@@ -340,3 +340,33 @@ margin-top: 50px;
 	font-size: 16px;
 	
 }
+
+.name{
+	height: 43px;
+    display: inline-block;
+    float: left;
+    width: 45px;
+	margin: 20px;
+	margin-right: 650px;
+	border: 2px solid #d2d6dc;
+	background: #d2d6dc;
+	padding: 10px 4px;
+	margin-left: 350px;
+	margin-top: 20px;
+}
+
+.mail{
+	height: 43px;
+	display: inline-block;
+	width: 45px;
+	margin: 20px;
+	margin-right: 650px;
+	border: 2px solid #d2d6dc;
+	background: #d2d6dc;
+	padding: 10px 4px;
+	margin-left: 350px;
+	margin-top: 20px;
+}
+
+
+
