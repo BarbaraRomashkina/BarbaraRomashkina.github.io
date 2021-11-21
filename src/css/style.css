@@ -5,6 +5,7 @@ nav{
 	width: 100%;
 	height: 60px;
 	background: #344051;
+	position: fixed;
 }
 
 .logo{
@@ -30,7 +31,7 @@ nav{
 }
 .main{
 	width: 100%;
-	height: calc(100% - 60px);
+	height: 100%;
 	background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/bg.jpg) center/cover no-repeat;
 }
 
@@ -61,6 +62,14 @@ color: #6d7682;
 font-size: 13px;
 padding: 0px 16px;
 margin: 58px 14px 0px 14px;
+}
+
+.menu li a:visited{
+color: white;
+}
+
+.menu li a: hover{
+	color: #d17700;
 }
 
 .inform h2{
@@ -375,7 +384,7 @@ margin-right: 10px;
 .mes{
 	margin-top: 80px;
 	margin-left: 400px;
-	margin-right: 400px;
+	margin-right: 480px;
 	border: 2px solid #d2d6dc;
 	background: #d2d6dc;
 	padding: 30px;
