@@ -222,17 +222,17 @@ position: top;
 	background: none;
 }
 
-.icon input{
+.icon{
 	transition: all 0.2s;
 	transform: scale(1);
 }
 
-.icon input:hover{
-	background: #344051;
+.icon:hover{
+	background: #a2a4c1;
 	color: white;
 }
 
-.icon input:active{
+.icon:active{
 transform: scale(1.1);
 
 
@@ -246,6 +246,9 @@ transform: scale(1.1);
 float: left;
 width: 350px;
 margin-top: 100px;
+-webkit-animation: picture 0.4s;
+	-o-animation: picture 0.4s;
+	animation: picture 0.4s;
 }
 
 .item_ability h4{
@@ -259,6 +262,19 @@ margin-top: 100px;
 	line-height: 20px;
 	font-size: 15px;
 	color: #3f495a;
+}
+
+@keyframes picture{
+	from{
+		opacity: 0;
+	}
+	to{
+		opacity: 1;
+	}
+}
+
+.item_ability:nth-child(1){
+	animation-delay: 0.4s;
 }
 
 .cases p{
