@@ -223,15 +223,20 @@ position: top;
 }
 
 .icon input{
-	transition: all 0.2s
+	transition: all 0.2s;
 	transform: scale(1);
 }
 
-.icon input: hover{
+.icon input:hover{
 	background: #344051;
 	color: white;
 }
 
+.icon input:active{
+transform: scale(1.1);
+
+
+}
 .item_abil{
 	height: 600px;
 	background: url(../img/bgr.jpg) center/cover no-repeat;
