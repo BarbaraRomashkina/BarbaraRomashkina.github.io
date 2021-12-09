@@ -457,26 +457,8 @@ font-weight: bold;
 	height: 600px;
 	margin-top: 70px;
 	background: url(../img/bgrn.jpg) 30% 100%/auto 85% no-repeat;
+	background-attachment: fixed;
 }
-
-.statist::before{
-	content: '';
-	display: block;
-	position: absolute;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	top: 0;
-	z-index: -1;
-	transform-origin: center;
-	min-height: 100vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-
-	/*Параллакс */
-	transform: translateZ(-1px) scale(2);
-}
-
 
 .some_statistics{
 float: left;
